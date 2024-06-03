@@ -8,4 +8,6 @@ This is a living repository and commits are encouraged.
 
 # Documentation
 
-The documentation can be found here
+The documentation can be found here:  
+  
+    https://github.com/Zachthebeast/Lego_Spike_Made_Easy/blob/main/docs.md
